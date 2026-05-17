@@ -18,7 +18,7 @@
 
 <br>
 
-[🚀 Live Demo](#) &nbsp;·&nbsp; [📖 How It Works](#how-it-works) &nbsp;·&nbsp; [⚙️ Run Locally](#run-locally)
+[🚀 Live Demo](https://vibecheck--music-emotion-predictor-3rho6wa94j7pixyadumyoz.streamlit.app/) &nbsp;·&nbsp; [📖 How It Works](#how-it-works) &nbsp;·&nbsp; [⚙️ Run Locally](#run-locally)
 
 <br>
 
@@ -154,7 +154,7 @@ vibecheck/
 
 ## 👥 Authors
 
-Built with 🎵 by **[Your Name]** and **[Sarthak](https://github.com/SARTHAKG8-debug)**
+Built with 🎵 by **Vansh Sharma** 
 
 <br>
 
