@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas==2.3.3
+scikit-learn==1.8.0
+spotipy
+pydantic
+streamlit
+joblib==1.5.3
